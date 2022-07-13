@@ -1,4 +1,4 @@
-# **2. Analysis of Livestock Data of Nepal**
+# **Analysis of Livestock Data of Nepal**
 
 ## **1**. **Data Understanding**
 
